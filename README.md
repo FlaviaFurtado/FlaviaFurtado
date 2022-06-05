@@ -13,7 +13,6 @@
 
 - Agradeço a visita, fique a vontade para me seguir e me chamar nas minhas rede sociais.
 
-- "Se quer viver uma vida feliz, amarre-se a uma meta, não às pessoas nem às coisas."
-- Albert Einstein
+- "Se quer viver uma vida feliz, amarre-se a uma meta, não às pessoas nem às coisas." -Albert Einstein
 
 ----------------------------------------------------------------------------------
