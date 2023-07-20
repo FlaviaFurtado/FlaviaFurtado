@@ -20,6 +20,6 @@
 
   </div>
 
-- "Se quer viver uma vida feliz, amarre-se a uma meta, não às pessoas nem às coisas." -Albert Einstein
+- "A imaginação muitas vezes nos leva a mundos que nunca existiram, mas sem isso nós não vamos a lugar algum." -Carl Sagan
 
 ----------------------------------------------------------------------------------
