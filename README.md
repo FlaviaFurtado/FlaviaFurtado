@@ -1,7 +1,7 @@
 ## Olá, meu nome é Carolina Flavia Furtado
 
 # Welcome | Bem vindo <img align="right" alt="cute-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/c1/00/a3/c100a3c97f8b6a04278d91547ee557bb.jpg">
-:books: Sou estudante de Ciência da computação na Una e atualmente estou aprendendo: <div style="display: inline_block"><br>
+:books: Sou estudante de Ciência da computação e desenvolvedora de Software para embarcados <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg">
