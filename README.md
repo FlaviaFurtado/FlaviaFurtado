@@ -23,6 +23,6 @@
 
   </div>
 
-- "A imaginação muitas vezes nos leva a mundos que nunca existiram, mas sem isso nós não vamos a lugar algum." -Carl Sagan
+- "Imagination will often carry us to worlds that never were, but without it, we go nowhere." -Carl Sagan
 
 ----------------------------------------------------------------------------------
