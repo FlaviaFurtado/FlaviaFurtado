@@ -1,4 +1,4 @@
-## Olá, meu nome é Carolina Flavia Furtado
+## Hello, I'm Flavia Furtado
 
 # Welcome | Bem vindo <img align="right" alt="cute-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/c1/00/a3/c100a3c97f8b6a04278d91547ee557bb.jpg">
 - 🔭 I’m currently working at Stellantis
