@@ -1,6 +1,6 @@
 ## Hello, I'm Flavia Furtado
 
-# Welcome | Bem vindo <img align="right" alt="cute-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/c1/00/a3/c100a3c97f8b6a04278d91547ee557bb.jpg">
+# Welcome! <img align="right" alt="cute-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/c1/00/a3/c100a3c97f8b6a04278d91547ee557bb.jpg">
 - 🔭 I’m currently working at Stellantis
 - :books: Studying Computer Science at Una University <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
